@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/guilhermeferr/imgs/blob/master/capa-gui-github.png">
+<img width="auto" src="https://github.com/guilhermeferr/guilhermeferr/blob/master/capa-gui-github.png">
 
 
 # Olá 👋
