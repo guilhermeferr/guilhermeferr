@@ -1,9 +1,10 @@
 <img width="auto" src="https://github.com/guilhermeferr/imgs/blob/master/capa-gui-github.png">
 
 
-# Guilherme Ferreira
+# Olá 👋
 
-## Olá 👋
+## Me chamo **Guilherme Ferreira**
+
 Sou um programador e designer :computer:, apaixonado por filmes, séries, tecnologia e pela troca de conhecimentos e experiências. 
 Amo o que faço, principalmente quando estou na criação de algo novo.
 
