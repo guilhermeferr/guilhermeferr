@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/guilhermeferr/imgs/blob/master/capa-gui-github.png">
 
 
 # Guilherme Ferreira
