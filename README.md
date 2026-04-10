@@ -33,11 +33,9 @@ Sou um profissional com mais de 10 anos de experiência no ecossistema de tecnol
 
 ### 📈 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeferr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeferr&layout=compact&langs_count=7&theme=radical"/>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilhermeferr&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeferr&layout=compact&langs_count=7&theme=radical)
 ---
 
 ### 📫 Como me encontrar
